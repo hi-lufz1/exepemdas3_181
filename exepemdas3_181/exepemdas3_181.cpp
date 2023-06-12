@@ -26,7 +26,7 @@ public :
 		cout << "lingkaran dibuat \n";
 	}
 	void input(int a){
-		cout << "Masukkan jejari : \n";
+		cout << "Masukkan jejari : ";
 		cin >> p;
 	}
 	void setX(int a) { //fungsi untuk memberi/mengirim nilai pada x
@@ -58,10 +58,10 @@ public:
 	int x;
 	int q;
 	Bujursangkar() {
-		cout << "Bujursanglar dibuat \n";
+		cout << "Bujursangkar dibuat \n";
 	}
 	void input(int a) {
-		cout << "Masukkan sisi : \n";
+		cout << "Masukkan sisi : ";
 		cin >> q;
 	}
 	void setX(int a) { //fungsi untuk memberi/mengirim nilai pada x
