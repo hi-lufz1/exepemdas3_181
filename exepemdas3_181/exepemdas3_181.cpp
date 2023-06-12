@@ -41,14 +41,14 @@ public :
 		
 		
 		a = 3.14 * x * x;
-		cout << "Luas Lingkaran =" << a << endl;
+		cout << "Luas Lingkaran = " << a << endl;
 		return 0;
 	}
 
 	float Keliling(int a) {
 		
 		a =2*3.14*x; 
-		cout << "Keliling Lingkaran =" << a << endl;
+		cout << "Keliling Lingkaran = " << a << endl;
 			return 0;
 	}
 	 };
@@ -73,7 +73,7 @@ public:
 	}
 	float Luas(int a) {
 		a = x * x;
-		cout << "Luas bujursangkar =" << a << endl;
+		cout << "Luas bujursangkar = " << a << endl;
 		return 0;
 	}
 	float Keliling(int a) {
